@@ -1,12 +1,8 @@
-<div align="center">
-
 <h1>Vinzencor</h1>
 
 <p><b>Backend Developer</b> · System Architect</p>
 
 <p><sub>Designing and building scalable backend systems end to end</sub></p>
-
-<br>
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
@@ -16,21 +12,19 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 
-<br><br>
-
 <table>
   <tr>
-    <td align="center"><b>Focus</b><br><sub>Backend architecture</sub></td>
-    <td align="center"><b>Learning</b><br><sub>Ethical hacking</sub></td>
-    <td align="center"><b>Interests</b><br><sub>Cyber security</sub></td>
+    <td><b>Focus</b><br><sub>Backend architecture</sub></td>
+    <td><b>Learning</b><br><sub>Ethical hacking</sub></td>
+    <td><b>Interests</b><br><sub>Cyber security</sub></td>
   </tr>
 </table>
 
-<br>
-
 <a href="mailto:vinzenco44a@gmail.com">vinzenco44a@gmail.com</a>
 
-</div>
+<br>
+
+<sub><i>I'm a backend dev, I struggle at centering a div.</i></sub>
 
 <!---
 vinzencor/vinzencor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
